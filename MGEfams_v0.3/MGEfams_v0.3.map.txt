@@ -1,0 +1,179 @@
+PF03524	conjugation	CagX	Family	Conjugal transfer protein
+PF10623	conjugation	PilI	Family	Plasmid conjugative transfer protein PilI
+PF16932	conjugation	T4SS_TraI	Family	Type IV secretory system, conjugal DNA-protein transfer
+PF02534	conjugation	T4SS-DNA_transf	Family	Type IV secretory system Conjugative DNA transfer
+PF06412	conjugation	TraD	Family	Conjugal transfer protein TraD
+PF07515	conjugation	TraI_2_C	Domain	Putative conjugal transfer nickase/helicase TraI C-term
+PF06986	conjugation	TraN	Family	Type-1V conjugative transfer system mating pair stabilisation
+PF09679	conjugation	TraQ	Family	Type-F conjugative transfer system pilin chaperone (TraQ)
+PF10624	conjugation	TraS	Family	Plasmid conjugative transfer entry exclusion protein TraS
+PF09676	conjugation	TraV	Family	Type IV conjugative transfer system lipoprotein (TraV)
+PF09673	conjugation	TrbC_Ftype	Family	Type-F conjugative transfer system pilin assembly protein
+PF11100	conjugation	TrbE	Family	Conjugal transfer protein TrbE
+PF07283	conjugation	TrbH	Family	Conjugal transfer protein TrbH
+PF03743	conjugation	TrbI	Family	Bacterial conjugation TrbI-like protein
+PF09677	conjugation	TrbI_Ftype	Family	Type-F conjugative transfer system protein (TrbI_Ftype)
+PF00552	integrase	IN_DBD_C	Domain	Integrase DNA binding domain
+PF12835	integrase	Integrase_1	Domain	Integrase
+PF02920	integrase	Integrase_DNA	Domain	DNA binding domain of tn916 integrase
+PF02022	integrase	Integrase_Zn	Domain	Integrase Zinc binding domain
+PF12834	integrase	Phage_int_SAM_2	Domain	Phage integrase, N-terminal
+PF14659	integrase	Phage_int_SAM_3	Domain	Phage integrase, N-terminal SAM-like domain
+PF13495	integrase	Phage_int_SAM_4	Domain	Phage integrase, N-terminal SAM-like domain
+PF13102	integrase	Phage_int_SAM_5	Domain	Phage integrase SAM-like domain
+PF13009	integrase	Phage_Integr_2	Family	Putative phage integrase
+PF16795	integrase	Phage_integr_3	Domain	Archaeal phage integrase
+PF00589	integrase	Phage_integrase	Family	Phage integrase family
+PF14882	integrase	PHINT_rpt	Repeat	Phage-integrase repeat unit
+PF00665	integrase	rve	Domain	Integrase core domain
+PF13333	integrase	rve_2	Family	Integrase core domain
+PF17511	mobilization	Mobilization_B	Family	Mobilization protein B
+PF06511	plasmid	IpaD	Family	Invasion plasmid antigen IpaD
+PF01672	plasmid	Plasmid_parti	Family	Putative plasmid partition protein
+PF09686	plasmid	Plasmid_RAQPRD	Family	Plasmid protein of unknown function (Plasmid_RAQPRD)
+PF10784	plasmid	Plasmid_stab_B	Family	Plasmid stability protein
+PF07929	plasmid	PRiA4_ORF3	Family	Plasmid pRiA4b ORF-3-like protein
+PF06290	plasmid	PsiB	Family	Plasmid SOS inhibition protein (PsiB)
+PF01719	plasmid	Rep_2	Family	Plasmid replication protein
+PF04796	plasmid	RepA_C	Family	Plasmid encoded RepA protein
+PF07506	plasmid	RepB	Family	RepB plasmid partitioning protein
+PF16793	plasmid	RepB_primase	Domain	RepB DNA-primase from phage plasmid
+PF05732	plasmid	RepL	Family	Firmicute plasmid replication protein (RepL)
+PF11130	conjugation	TraC_F_IV	Family	F pilus assembly Type-IV secretion system for plasmid transfer
+PF13728	conjugation	TraF	Family	F plasmid transfer operon protein
+PF13729	conjugation	TraF_2	Domain	F plasmid transfer operon, TraF, protein
+PF04610	conjugation	TrbL	Family	TrbL/VirB6 plasmid conjugal transfer protein
+PF17585	recombinase	Phage_Arf	Family	Accessory recombination function protein
+PF12940	recombinase	RAG1	Family	Recombination-activation protein 1 (RAG1), recombinase
+PF03089	recombinase	RAG2	Family	Recombination activating protein 2
+PF17378	recombinase	REC104	Family	Meiotic recombination protein REC104
+PF15165	recombinase	REC114-like	Family	Meiotic recombination protein REC114-like
+PF00154	recombinase	RecA	Family	recA bacterial DNA recombination protein
+PF16786	recombinase	RecA_dep_nuc	Domain	Recombination enhancement, RecA-dependent nuclease
+PF02565	recombinase	RecO_C	Family	Recombination protein O C terminal
+PF11967	recombinase	RecO_N	Domain	Recombination protein O N terminal
+PF07508	recombinase	Recombinase	Family	Recombinase
+PF03838	recombinase	RecU	Domain	Recombination protein U
+PF00239	resolvase	Resolvase	Domain	Resolvase, N terminal domain
+PF03652	resolvase	RuvX	Family	Holliday junction resolvase
+PF16684	resolvase	Telomere_res	Domain	Telomere resolvase
+PF07863	transposase	CtnDOT_TraJ	Family	Homologues of TraJ from Bacteroides conjugative transposon
+PF12784	transposase	PDDEXK_2	Domain	PD-(D/E)XK nuclease family transposase
+PF05380	transposase	Peptidase_A17	Family	Pao retrotransposon peptidase
+PF12384	transposase	Peptidase_A2B	Family	Ty3 transposon peptidase
+PF12382	transposase	Peptidase_A2E	Family	Retrotransposon peptidase
+PF09077	transposase	Phage-MuB_C	Domain	Mu B transposition protein, C terminal
+PF04827	transposase	Plant_tran	Family	Plant transposon protein
+PF03732	transposase	Retrotrans_gag	Family	Retrotransposon gag protein
+PF07999	transposase	RHSP	Family	Retrotransposon hot spot protein
+PF16770	transposase	RTT107_BRCT_5	Domain	Regulator of Ty1 transposition protein 107 BRCT domain
+PF16771	transposase	RTT107_BRCT_6	Domain	Regulator of Ty1 transposition protein 107 BRCT domain
+PF11426	transposase	Tn7_TnsC_Int	Family	Tn7 transposition regulator TnsC
+PF09035	transposase	Tn916-Xis	Domain	Excisionase from transposon Tn916
+PF14706	transposase	Tnp_DNA_bind	Domain	Transposase DNA-binding
+PF12017	transposase	Tnp_P_element	Family	Transposase protein
+PF12596	transposase	Tnp_P_element_C	Family	87kDa Transposase
+PF14198	transposase	TnpV	Family	Transposon-encoded protein TnpV
+PF14202	transposase	TnpW	Family	Transposon-encoded protein TnpW
+PF15978	transposase	TnsD	Family	Tn7-like transposition protein D
+PF12642	transposase	TpcC	Family	Conjugative transposon protein TcpC
+PF06122	transposase	TraH	Family	Conjugative relaxosome accessory transposon protein
+PF04236	transposase	Transp_Tc5_C	Domain	Tc5 transposase C-terminal domain
+PF13963	transposase	Transpos_assoc	Domain	Transposase-associated domain
+PF01359	transposase	Transposase_1	Family	Transposase (partial DDE domain)
+PF02371	transposase	Transposase_20	Family	Transposase IS116/IS110/IS902 family
+PF02992	transposase	Transposase_21	Family	Transposase family tnp2
+PF02994	transposase	Transposase_22	Domain	L1 transposable element RBD-like domain
+PF03017	transposase	Transposase_23	Family	TNP1/EN/SPM transposase
+PF03004	transposase	Transposase_24	Family	Plant transposase (Ptta/En/Spm family)
+PF04195	transposase	Transposase_28	Family	Putative gypsy type transposon
+PF04754	transposase	Transposase_31	Family	Putative transposase, YhgA-like
+PF00872	transposase	Transposase_mut	Family	Transposase, Mutator family
+PF12508	transposase	Transposon_TraM	Family	Conjugative transposon, TraM
+PF10626	transposase	TraO	Family	Conjugative transposon protein TraO
+PF01021	transposase	TYA	Family	TYA transposon protein
+TIGR02775	conjugation	TIGR02775		TrbG_Ti: P-type conjugative transfer protein TrbG
+PF10671	conjugation	TcpQ		TcpQ: Conjugative transfer protein PilL
+TIGR01690	conjugation	TIGR01690		ICE_RAQPRD: integrative conjugative element protein, RAQPRD family
+PF12696	conjugation	TraG-D_C		TraM recognition site of TraD and TraG
+TIGR02746	conjugation	TIGR02746		TraC-F-type: type-IV secretion system protein TraC
+TIGR03744	conjugation	TIGR03744		traC_PFL_4706: conjugative transfer ATPase, PFL_4706 family
+TIGR02740	conjugation	TIGR02740		TraF-like:  F-type conjugation system (type IV secretion) specific components (HMM)
+TIGR02783	conjugation	TIGR02783		TrbL_P: P-type conjugative transfer protein TrbL
+PF12482	integrase	DUF3701		Phage integrase protein
+PF02899	integrase	Phage_int_SAM_1		Phage integrase, N-terminal SAM-like domain
+PF09003	integrase	Phage_integ_N		Bacteriophage lambda integrase, N-terminal domain
+PF13683	integrase	rve_3		Integrase core domain
+TIGR03454	plasmid	TIGR03454		partition_RepB: plasmid partitioning protein RepB
+TIGR02224	recombinase	TIGR02224		recomb_XerC: tyrosine recombinase XerC
+TIGR02225	recombinase	TIGR02225		recomb_XerD: tyrosine recombinase XerD
+TIGR02012	recombinase	TIGR02012		tigrfam_recA: protein RecA
+TIGR00613	recombinase	TIGR00613		reco: DNA repair protein RecO
+TIGR00648	recombinase	TIGR00648		recU: recombination protein U
+TIGR03782	transposase	TIGR03782		Bac_Flav_CT_J: Bacteroides conjugative transposon TraJ protein
+PF01548	transposase	DEDD_Tnp_IS110		Transposase
+TIGR03779	transposase	TIGR03779		Bac_Flav_CT_M: Bacteroides conjugative transposon TraM protein
+TIGR00607	recombinase	TIGR00607		rad52: recombination protein rad52
+TIGR00615	recombinase	TIGR00615		recR: recombination protein RecR
+TIGR00616	recombinase	TIGR00616		rect: recombinase, phage RecT family
+TIGR00929	conjugation	TIGR00929		VirB4_CagE: type IV secretion/conjugal transfer ATPase, VirB4 family
+TIGR01613	plasmid	TIGR01613		primase_Cterm: phage/plasmid primase, P4 family, C-terminal domain
+TIGR01629	plasmid	TIGR01629		rep_II_X: phage/plasmid replication protein, gene II/X family
+TIGR01765	transposase	TIGR01765		tspaseT_teng_N: transposase, putative, N-terminal domain
+TIGR01766	transposase	TIGR01766		tspaseT_teng_C: transposase, IS605 OrfB family
+TIGR01913	recombinase	TIGR01913		bet_lambda: phage recombination protein Bet
+TIGR02236	recombinase	TIGR02236		recomb_radA: DNA repair and recombination protein RadA
+TIGR02237	recombinase	TIGR02237		recomb_radB: DNA repair and recombination protein RadB
+TIGR02238	recombinase	TIGR02238		recomb_DMC1: meiotic recombinase Dmc1
+TIGR02249	integrase	TIGR02249		integrase_gron: integron integrase
+TIGR02419	plasmid	TIGR02419		C4_traR_proteo: phage/conjugal plasmid C-4 type zinc finger protein, TraR family
+TIGR02525	plasmid	TIGR02525		plasmid_TraJ: plasmid transfer ATPase TraJ
+TIGR02686	conjugation	TIGR02686		relax_trwC: conjugative relaxase domain
+TIGR02738	conjugation	TIGR02738		TrbB: type-F conjugative transfer system pilin assembly thiol-disulfide isomerase TrbB
+TIGR02739	conjugation	TIGR02739		TraF: type-F conjugative transfer system pilin assembly protein TraF
+TIGR02741	conjugation	TIGR02741		TraQ: type-F conjugative transfer system pilin chaperone TraQ
+TIGR02742	conjugation	TIGR02742		TrbC_Ftype: type-F conjugative transfer system pilin assembly protein TrbC
+TIGR02743	conjugation	TIGR02743		TraW: type-F conjugative transfer system protein TraW
+TIGR02744	conjugation	TIGR02744		TrbI_Ftype: type-F conjugative transfer system protein TrbI
+TIGR02747	conjugation	TIGR02747		TraV: type IV conjugative transfer system protein TraV
+TIGR02750	conjugation	TIGR02750		TraN_Ftype: type-F conjugative transfer system mating-pair stabilization protein TraN
+TIGR02755	conjugation	TIGR02755		TraX_Ftype: type-F conjugative transfer system pilin acetylase TraX
+TIGR02756	conjugation	TIGR02756		TraK_Ftype: type-F conjugative transfer system secretin TraK
+TIGR02758	conjugation	TIGR02758		TraA_TIGR: type IV conjugative transfer system pilin TraA
+TIGR02759	conjugation	TIGR02759		TraD_Ftype: type IV conjugative transfer system coupling protein TraD
+TIGR02760	conjugation	TIGR02760		TraI_TIGR: conjugative transfer relaxase protein TraI
+TIGR02761	conjugation	TIGR02761		TraE_TIGR: type IV conjugative transfer system protein TraE
+TIGR02762	conjugation	TIGR02762		TraL_TIGR: type IV conjugative transfer system protein TraL
+TIGR02767	conjugation	TIGR02767		TraG-Ti: Ti-type conjugative transfer system protein TraG
+TIGR02768	conjugation	TIGR02768		TraA_Ti: Ti-type conjugative transfer relaxase TraA
+TIGR02771	conjugation	TIGR02771		TraF_Ti: conjugative transfer signal peptidase TraF
+TIGR02780	conjugation	TIGR02780		TrbJ_Ti: P-type conjugative transfer protein TrbJ
+TIGR02781	conjugation	TIGR02781		VirB9: P-type conjugative transfer protein VirB9
+TIGR02782	conjugation	TIGR02782		TrbB_P: P-type conjugative transfer ATPase TrbB
+TIGR03299	plasmid	TIGR03299		LGT_TIGR03299: phage/plasmid-like protein TIGR03299
+TIGR03453	plasmid	TIGR03453		partition_RepA: plasmid partitioning protein RepA
+TIGR03474	plasmid	TIGR03474		incFII_RepA: incFII family plasmid replication initiator RepA
+TIGR03743	conjugation	TIGR03743		SXT_TraD: conjugative coupling factor TraD, SXT/TOL subfamily
+TIGR03745	conjugation	TIGR03745		conj_TIGR03745: integrating conjugative element membrane protein, PFL_4702 family
+TIGR03746	conjugation	TIGR03746		conj_TIGR03746: integrating conjugative element protein, PFL_4703 family
+TIGR03747	conjugation	TIGR03747		conj_TIGR03747: integrating conjugative element membrane protein, PFL_4697 family
+TIGR03748	conjugation	TIGR03748		conj_PilL: integrating conjugative element protein PilL, PFGI-1 class
+TIGR03749	conjugation	TIGR03749		conj_TIGR03749: integrating conjugative element protein, PFL_4704 family
+TIGR03750	conjugation	TIGR03750		conj_TIGR03750: conjugative transfer region protein, TIGR03750 family
+TIGR03751	conjugation	TIGR03751		conj_TIGR03751: conjugative transfer region lipoprotein, TIGR03751 family
+TIGR03752	conjugation	TIGR03752		conj_TIGR03752: integrating conjugative element protein, PFL_4705 family
+TIGR03754	conjugation	TIGR03754		conj_TOL_TraD: conjugative coupling factor TraD, PFGI-1 class
+TIGR03755	conjugation	TIGR03755		conj_TIGR03755: integrating conjugative element protein, PFL_4711 family
+TIGR03756	conjugation	TIGR03756		conj_TIGR03756: integrating conjugative element protein, PFL_4710 family
+TIGR03757	conjugation	TIGR03757		conj_TIGR03757: integrating conjugative element protein, PFL_4709 family
+TIGR03758	conjugation	TIGR03758		conj_TIGR03758: integrating conjugative element protein, PFL_4701 family
+TIGR03759	conjugation	TIGR03759		conj_TIGR03759: integrating conjugative element protein, PFL_4693 family
+TIGR03760	conjugation	TIGR03760		ICE_TraI_Pfluor: integrating conjugative element relaxase, PFGI-1 class
+TIGR03761	conjugation	TIGR03761		ICE_PFL4669: integrating conjugative element protein, PFL_4669 family
+TIGR03764	conjugation	TIGR03764		ICE_PFGI_1_parB: integrating conjugative element, PFGI_1 class, ParB family protein
+TIGR03765	conjugation	TIGR03765		ICE_PFL_4695: integrating conjugative element protein, PFL_4695 family
+TIGR03780	transposase	TIGR03780		Bac_Flav_CT_N: Bacteroides conjugative transposon TraN protein
+TIGR03781	transposase	TIGR03781		Bac_Flav_CT_K: Bacteroides conjugative transposon TraK protein
+TIGR03783	conjugation	TIGR03783		Bac_Flav_CT_G: Bacteroides conjugation system ATPase, TraG family
+TIGR04346	conjugation	TIGR04346		DotA_TraY: conjugal transfer/type IV secretion protein DotA/TraY
+TIGR04360	conjugation	TIGR04360		other_trbK: conjugative transfer region protein TrbK
