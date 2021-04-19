@@ -9,4 +9,4 @@ MGEfams_v0.1, v0.2, v0.3 and v0.4 - created in Oct 2018
 
 MGEfams_v0.3 and v0.4 - created before Oct 2019 
 
-MGEfams_v0.3 and v0.4 - created in April 2018 based on Pfam (v ??.?) and TIGRFAMs (v ??)
+MGEfams_v0.5 - created in April 2018 based on Pfam (v ??.?) and TIGRFAMs (v ??)
