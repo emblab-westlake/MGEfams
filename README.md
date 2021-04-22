@@ -3,7 +3,7 @@
 <!--
  * @Author: zhangguoqing
  * @Date: 2021-04-21 14:37:48
- * @LastEditTime: 2021-04-22 19:23:16
+ * @LastEditTime: 2021-04-22 20:50:49
 -->
 
 # MGEfams
@@ -37,42 +37,45 @@ HMMER3: >=3.3.2
 
 
 ### Usage
-`
--i INPUT_FILE [-o [OUTPUT_FILE_NAME]] [-db Sub_Database]
-                  [-DB synthesis_database] [-n N] [--check] [-v] [-h]
-                  [{--cut_ga,--cut_nc,--cut_tc}]
-
 
 DESCRIPTION
-FunGeneTyper version: 1.0.0
+MGEgenetyper version: 0.5.0
 Detailed introducion
-Usage
+
+optional arguments:  
+  -i INPUT_FILE, --input INPUT_FILE  
+    the input file ORFs.faa  
+
+  -o [OUTPUT_FILE_NAME], --output [OUTPUT_FILE_NAME]  
+    the outputfile prefix name: eg. PRIFEX.tlout  
 
 
-optional arguments:
-  -i INPUT_FILE, --input INPUT_FILE
-                        the input file ORFs.faa
-  -o [OUTPUT_FILE_NAME], --output [OUTPUT_FILE_NAME]
-                        the outputfile prefix name: eg. PRIFEX.tlout
+Required arguments:  
+  -db Sub_Database  
+  Sub database; Default Antibiotic Resistance Genes  
+  
+  -DB synthesis_database  
+    synthesis database, Default Antibiotic Resistance Genes database  
+
+  {--cut_ga,--cut_nc,--cut_tc}  
+    hmm type; chose from {--cut_ga, --cut_nc, --cut_tc default:cut_ga  
+  
+  -n N, --nproc N  
+  The number of CPUs to use for parallelizing the mapping [default 1]  
 
 
-Required arguments:
-  -db Sub_Database      Sub database; Default Antibiotic Resistance Genes
-  -DB synthesis_database
-                        synthesis database, Default Antibiotic Resistance Genes database
-  {--cut_ga,--cut_nc,--cut_tc}
-                        hmm type; chose from {--cut_ga, --cut_nc, --cut_tc}
-                         default:cut_ga
-  -n N, --nproc N       The number of CPUs to use for parallelizing the mapping [default 1]
+Other arguments:  
+ 
+  --check  
+   Only checks if the Default ARG DB is installed and installs it if not.
+ 
+  -v, --version  
+    Prints the current MetaPhlAn version and exit
+ 
+  -h, --help  
+    show this help message and exit
 
 
-Other arguments:
-  --check               Only checks if the Default ARG DB is installed and installs it if not.
-  -v, --version         Prints the current MetaPhlAn version and exit
-  -h, --help            show this help message and exit
-`
 ```
-
-
 MGEsgenetyper-v0.5.py -i <protein_c_ORFs>.fasta -o <OUTPUT_NAME> -db MGEs.v0.5.hmm -DB Pfam-TIGRfams.hmm -n 2
 ```
