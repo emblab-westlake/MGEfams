@@ -71,7 +71,7 @@ def read_params(args):
         help="Only checks if the Default ARG DB is installed and installs it if not.")
     arg('-v', '--version', action='version',
         version="FunGeneTyper version {} ({})".format(__version__, __date__),
-        help="Prints the current MetaPhlAn version and exit")
+        help="Prints the current MGEfams tool version and exit")
     arg("-h", "--help", action="help", help="show this help message and exit")
 
     pars = p.parse_args()
