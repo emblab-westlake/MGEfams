@@ -2,7 +2,7 @@
 
 <!--
  * @Author: zhangguoqing and Feng Ju (supervisor) 
- * @Email correspondence: jufeng@westlake.edu.cn
+ * @Email correspondence to: jufeng@westlake.edu.cn
  * @Date: 2021-04-21 14:37:48
  * @LastEditTime: 2021-04-22 20:50:49
 -->
@@ -16,11 +16,11 @@ This subdatabase consists of HMM models for MGE genes extracted from Pfam and TI
 ---
 ### Development Record  
 
-MGEfams_v0.1, v0.2, v0.3 and v0.4 - created in Oct 2018 
+MGEfams_v0.1, v0.2, v0.3 and v0.4 - created by Feng Ju in Oct 2018 
 
-MGEfams_v0.3 and v0.4 - created before Oct 2019 
+MGEfams_v0.3 and v0.4 - created by Feng Ju before Oct 2019 
 
-MGEfams_v0.5 - created in April 2021 based on Pfam (v34.0) and TIGRFAMs (v15.0)
+MGEfams_v0.5 - created by Guoqing Zhang in April 2021 based on Pfam (v34.0) and TIGRFAMs (v15.0)
 
 MGEfams_v0.6 in development  
 
