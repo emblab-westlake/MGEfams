@@ -2,13 +2,14 @@
 
 <!--
  * @Author: zhangguoqing and Feng Ju (supervisor) 
- * @Email correspondence to: jufeng@westlake.edu.cn
- * @Date: 2021-04-21 14:37:48
+ * @Correspondence email: jufeng@westlake.edu.cn
+ * @Affiliation: EMBLab, Westlake University
+ * @Date: 2022-04-15 07:00:00 (by FJ)
  * @LastEditTime: 2021-04-22 20:50:49
 -->
 
 # MGEfams
-MGEfams: Fast and robust identificaiton of mobile genetic elements (MGE) genes from genomic and metagenomic assemblies using MGEfams, a high-quality and manually cruated structured subdatabase of profile Hidden Markov Models (HMM) for MGE genes
+MGEfams: Fast and robust identification of Mobile Genetic Element (MGE) genes from genomic and metagenomic assemblies of high-throghput DNA sequencing. The MGEfams is a high-quality, manually cruated and structured subdatabase of profile Hidden Markov Models (HMM) for MGE gene annotation
 
 
 This subdatabase consists of HMM models for MGE genes extracted from Pfam and TIGRFAMs databases, based on string match and expert manual cruation of their functional annotations to one of the following keywords: transposase, transposon, conjugative, integrase, integron, recombinase, resolvase, conjugal, mobilization, recombination, and plasmid, as recommended previously (Science.2012;337(6098):1107-1111; Nature.2014; 509(7502): 612–616)
