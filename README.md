@@ -1,16 +1,17 @@
 
 
 <!--
- * @Author: zhangguoqing
+ * @Author: zhangguoqing and Feng Ju (supervisor) 
+ * @Email correspondence: jufeng@westlake.edu.cn
  * @Date: 2021-04-21 14:37:48
  * @LastEditTime: 2021-04-22 20:50:49
 -->
 
 # MGEfams
-Fast and robust identificaiton of mobile genetic elements (MGE) genes from genomes and metagenome assemblies using MGEfams, a high-quality and manually cruated subdatabase of profile hidden Markov models for MGE genes
+MGEfams: Fast and robust identificaiton of mobile genetic elements (MGE) genes from genomic and metagenomic assemblies using MGEfams, a high-quality and manually cruated structured subdatabase of profile Hidden Markov Models (HMM) for MGE genes
 
 
-This subdatabase of Hidden Markov Models (HMMs) consists of HMM models for MGE genes extracted from Pfam (v 30.0) 27 and TIGRFAMs databases, based on string match in their functional annotations to one of the following keywords: transposase, transposon, conjugative, integrase, integron, recombinase, resolvase, conjugal, mobilization, recombination, and plasmid, as recommended previously (Forsberg et al 2012, Forsberg et al 2014)
+This subdatabase consists of HMM models for MGE genes extracted from Pfam and TIGRFAMs databases, based on string match and expert manual cruation of their functional annotations to one of the following keywords: transposase, transposon, conjugative, integrase, integron, recombinase, resolvase, conjugal, mobilization, recombination, and plasmid, as recommended previously (Science.2012;337(6098):1107-1111; Nature.2014; 509(7502): 612–616)
 
 ---
 ### Development Record  
@@ -26,7 +27,7 @@ MGEfams_v0.6 in development
 ---
 
 ### Update Notes
-MGEfams_v5.0 18 modules were updated by lastest Pfam and TIGRfams
+MGEfams_v5.0 was constructed based on the lastest version of Pfam (v34.0) and TIGRFAMs (v15.0), and will be regularly updated.
 
 
 
