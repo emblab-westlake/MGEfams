@@ -81,3 +81,6 @@ Other arguments:
 ```
 MGEsgenetyper-v0.5.py -i <protein_c_ORFs>.fasta -o <OUTPUT_NAME> -db MGEs.v0.5.hmm -DB Pfam-TIGRfams.hmm -n 2
 ```
+
+
+Citation: He L, Huang X, Zhang G, Yuan L, Shen E, Zhang L, et al. Distinctive signatures of pathogenic and antibiotic resistant potentials in the hadal microbiome. Environmental Microbiome. 2022;17(1):19.  https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-022-00413-5
