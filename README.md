@@ -16,21 +16,13 @@ MGEfams: Fast and robust identification of Mobile Genetic Element (MGE) genes fr
 This subdatabase consists of HMM models for MGE genes extracted from Pfam and TIGRFAMs databases, based on string match and expert manual cruation of their functional annotations to one of the following keywords: transposase, transposon, conjugative, integrase, integron, recombinase, resolvase, conjugal, mobilization, recombination, and plasmid, as recommended previously (Science.2012;337(6098):1107-1111; Nature.2014; 509(7502): 612–616)
 
 ---
-### Development Record  
+### Development Record
 
-<<<<<<< HEAD
-MGEfams_v0.1, v0.2, v0.3 and v0.4 - Created in Oct 2018 
-  
-MGEfams_v0.3 and v0.4 - Created before Oct 2019 
-
-MGEfams_v0.5 - Created in April 2021 based on Pfam (v34.0) and TIGRFAMs (v15.0)
-=======
 MGEfams_v0.1, v0.2, v0.3 and v0.4 - created by Feng Ju in Oct 2018 
 
 MGEfams_v0.3 and v0.4 - created by Feng Ju before Oct 2019 
 
 MGEfams_v0.5 - created by Guoqing Zhang in April 2021 based on Pfam (v34.0) and TIGRFAMs (v15.0)
->>>>>>> 8e9676672bd604ce44fadd0d784bfd4130aadf6a
 
 MGEfams_v0.6 -  In development  
 
