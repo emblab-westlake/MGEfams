@@ -1,33 +1,43 @@
 
 
 <!--
- * @Author: zhangguoqing
- * @Date: 2021-04-21 14:37:48
+ * @Author: zhangguoqing and Feng Ju (supervisor) 
+ * @Correspondence email: jufeng@westlake.edu.cn
+ * @Affiliation: EMBLab, Westlake University
+ * @Date: 2022-04-15 07:00:00 (by FJ)
  * @LastEditTime: 2021-04-22 20:50:49
 -->
 
 
 # MGEfams
-Fast and robust identificaiton of mobile genetic elements (MGE) genes from genomes and metagenome assemblies using MGEfams, a high-quality and manually cruated subdatabase of profile hidden Markov models for MGE genes
+MGEfams: Fast and robust identification of Mobile Genetic Element (MGE) genes from genomic and metagenomic assemblies of high-throghput DNA sequencing. The MGEfams is a high-quality, manually cruated and structured subdatabase of profile Hidden Markov Models (HMM) for MGE gene annotation
 
 
-This subdatabase of Hidden Markov Models (HMMs) consists of HMM models for MGE genes extracted from Pfam (v 30.0) 27 and TIGRFAMs databases, based on string match in their functional annotations to one of the following keywords: transposase, transposon, conjugative, integrase, integron, recombinase, resolvase, conjugal, mobilization, recombination, and plasmid, as recommended previously (Forsberg et al 2012, Forsberg et al 2014)
+This subdatabase consists of HMM models for MGE genes extracted from Pfam and TIGRFAMs databases, based on string match and expert manual cruation of their functional annotations to one of the following keywords: transposase, transposon, conjugative, integrase, integron, recombinase, resolvase, conjugal, mobilization, recombination, and plasmid, as recommended previously (Science.2012;337(6098):1107-1111; Nature.2014; 509(7502): 612–616)
 
 ---
 ### Development Record  
 
+<<<<<<< HEAD
 MGEfams_v0.1, v0.2, v0.3 and v0.4 - Created in Oct 2018 
   
 MGEfams_v0.3 and v0.4 - Created before Oct 2019 
 
 MGEfams_v0.5 - Created in April 2021 based on Pfam (v34.0) and TIGRFAMs (v15.0)
+=======
+MGEfams_v0.1, v0.2, v0.3 and v0.4 - created by Feng Ju in Oct 2018 
+
+MGEfams_v0.3 and v0.4 - created by Feng Ju before Oct 2019 
+
+MGEfams_v0.5 - created by Guoqing Zhang in April 2021 based on Pfam (v34.0) and TIGRFAMs (v15.0)
+>>>>>>> 8e9676672bd604ce44fadd0d784bfd4130aadf6a
 
 MGEfams_v0.6 -  In development  
 
 ---
 
 ### Update Notes
-MGEfams_v5.0 18 modules were updated by lastest Pfam and TIGRfams
+MGEfams_v5.0 was constructed based on the lastest version of Pfam (v34.0) and TIGRFAMs (v15.0), and will be regularly updated.
 
 
 
@@ -81,3 +91,6 @@ Required arguments:
 ```
 MGEsgenetyper-v0.5.py -i <protein_c_ORFs>.fasta -o <OUTPUT_NAME> -db MGEs.v0.5.hmm -DB Pfam-TIGRfams.hmm -n 2
 ```
+
+
+Citation: He L, Huang X, Zhang G, Yuan L, Shen E, Zhang L, et al. Distinctive signatures of pathogenic and antibiotic resistant potentials in the hadal microbiome. Environmental Microbiome. 2022;17(1):19.  https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-022-00413-5
