@@ -426,11 +426,11 @@ def develop():
     #       pass
     # DELETE
 
-#    hmm_subdatabase(pars.input_file, hmm_output, pars.cpucore, pars.sub_db, pars.hmmtype)
-#    extract_seqs(hmm_output, pars.input_file, extract_arg)
-#    hmm_largedatabase(extract_arg, hmm_large_output, pars.cpucore, pars.large_db, pars.hmmtype)
+    hmm_subdatabase(pars.input_file, hmm_output, pars.cpucore, pars.sub_db, pars.hmmtype)
+    extract_seqs(hmm_output, pars.input_file, extract_arg)
+    hmm_largedatabase(extract_arg, hmm_large_output, pars.cpucore, pars.large_db, pars.hmmtype)
 
-#    compare_result(hmm_output, hmm_large_output, compare_output)
+    compare_result(hmm_output, hmm_large_output, compare_output)
     hmm_annotate(pars.output_file_name,pars.output_file_name)
     MGE_match(pars.output_file_name)
     classifier_MGE(classifiermetadata,pars.output_file_name)
