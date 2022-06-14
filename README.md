@@ -6,6 +6,7 @@
  * @LastEditTime: 2021-04-22 20:50:49
 -->
 
+
 # MGEfams
 Fast and robust identificaiton of mobile genetic elements (MGE) genes from genomes and metagenome assemblies using MGEfams, a high-quality and manually cruated subdatabase of profile hidden Markov models for MGE genes
 
@@ -42,37 +43,38 @@ DESCRIPTION
 MGEgenetyper version: 0.5.0
 Detailed introducion
 
-optional arguments:  
-  -i INPUT_FILE, --input INPUT_FILE  
+**optional arguments:**  
+  
+  **-i INPUT_FILE, --input INPUT_FILE**  
     the input file ORFs.faa  
 
-  -o [OUTPUT_FILE_NAME], --output [OUTPUT_FILE_NAME]  
+  **-o [OUTPUT_FILE_NAME], --output [OUTPUT_FILE_NAME]**  
     the outputfile prefix name: eg. PRIFEX.tlout  
 
 
 Required arguments:  
-  -db Sub_Database  
+  **-db Sub_Database**  
   Sub database; Default Antibiotic Resistance Genes  
   
-  -DB synthesis_database  
+  **-DB synthesis_database**  
     synthesis database, Default Antibiotic Resistance Genes database  
 
-  {--cut_ga,--cut_nc,--cut_tc}  
+  **{--cut_ga,--cut_nc,--cut_tc}**  
     hmm type; chose from {--cut_ga, --cut_nc, --cut_tc default:cut_ga  
   
-  -n N, --nproc N  
+  **-n N, --nproc N**  
   The number of CPUs to use for parallelizing the mapping [default 1]  
 
 
-Other arguments:  
+**Other arguments:**   
  
-  --check  
+  **--check**  
    Only checks if the Default ARG DB is installed and installs it if not.
  
-  -v, --version  
+  **-v, --version**  
     Prints the current MetaPhlAn version and exit
  
-  -h, --help  
+  **-h, --help**  
     show this help message and exit
 
 
