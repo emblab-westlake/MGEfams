@@ -46,7 +46,7 @@ MGEgenetyper version: 0.5.0
 Detailed introducion
 
 **optional arguments:**  
-  
+
   **-i INPUT_FILE, --input INPUT_FILE**  
     the input file ORFs.faa  
 
@@ -57,27 +57,29 @@ Detailed introducion
 Required arguments:  
   **-db Sub_Database**  
   Sub database; Default Antibiotic Resistance Genes  
-  
+
   **-DB synthesis_database**  
     synthesis database, Default Antibiotic Resistance Genes database  
 
   **{--cut_ga,--cut_nc,--cut_tc}**  
     hmm type; chose from {--cut_ga, --cut_nc, --cut_tc default:cut_ga  
-  
+
   **-n N, --nproc N**  
   The number of CPUs to use for parallelizing the mapping [default 1]  
 
 
 **Other arguments:**   
- 
+
   **--check**  
    Only checks if the Default ARG DB is installed and installs it if not.
- 
+
   **-v, --version**  
     Prints the current MetaPhlAn version and exit
- 
+
   **-h, --help**  
     show this help message and exit
+
+**Example:**
 
 
 ```
