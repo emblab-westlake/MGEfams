@@ -24,7 +24,9 @@ MGEfams_v0.3 and v0.4 - created by Feng Ju before Oct 2019
 
 MGEfams_v0.5 - created by Guoqing Zhang in April 2021 based on Pfam (v34.0) and TIGRFAMs (v15.0)
 
-MGEfams_v0.6 -  In development  
+Next version:
+
+MGEfams_v1.0.0 -  In development  
 
 ---
 
