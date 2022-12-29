@@ -44,7 +44,7 @@ HMMER3: >=3.3.2
 ### Usage
 
 DESCRIPTION
-MGEgenetyper version: 0.5.0
+MGEfams version: 0.5.0
 Detailed introducion
 
 **optional arguments:**  
@@ -55,28 +55,26 @@ Detailed introducion
   **-o [OUTPUT_FILE_NAME], --output [OUTPUT_FILE_NAME]**  
     the outputfile prefix name: eg. PRIFEX.tlout  
 
-
 Required arguments:  
   **-db Sub_Database**  
-  Sub database; Default Antibiotic Resistance Genes  
+  Sub database; Default Mobile Genetic Elements database  
 
   **-DB synthesis_database**  
-    synthesis database, Default Antibiotic Resistance Genes database  
+    synthesis database 
 
   **{--cut_ga,--cut_nc,--cut_tc}**  
-    hmm type; chose from {--cut_ga, --cut_nc, --cut_tc default:cut_ga  
+    hmm type; chose from {--cut_ga, --cut_nc, --cut_tc} [default: cut_ga]
 
   **-n N, --nproc N**  
   The number of CPUs to use for parallelizing the mapping [default 1]  
 
-
 **Other arguments:**   
 
   **--check**  
-   Only checks if the Default ARG DB is installed and installs it if not.
+   Only checks if the Default MGE database is installed and installs it if not.
 
   **-v, --version**  
-    Prints the current MetaPhlAn version and exit
+    Prints the current version
 
   **-h, --help**  
     show this help message and exit
